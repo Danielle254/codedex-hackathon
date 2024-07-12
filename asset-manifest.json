@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/codedex-hackathon/static/css/main.d889d5ba.css",
-    "main.js": "/codedex-hackathon/static/js/main.ae135c8d.js",
+    "main.js": "/codedex-hackathon/static/js/main.b3577b01.js",
     "static/media/shoes.jpg": "/codedex-hackathon/static/media/shoes.c73490a178da9ee283f6.jpg",
     "static/media/instagram.png": "/codedex-hackathon/static/media/instagram.8b5eaa7762a39cfbefcd.png",
     "static/media/facebook.png": "/codedex-hackathon/static/media/facebook.e0493b917b209c005e2f.png",
@@ -10,10 +10,10 @@
     "static/media/clothes2.jpg": "/codedex-hackathon/static/media/clothes2.4402c7b8c689c5355c7e.jpg",
     "index.html": "/codedex-hackathon/index.html",
     "main.d889d5ba.css.map": "/codedex-hackathon/static/css/main.d889d5ba.css.map",
-    "main.ae135c8d.js.map": "/codedex-hackathon/static/js/main.ae135c8d.js.map"
+    "main.b3577b01.js.map": "/codedex-hackathon/static/js/main.b3577b01.js.map"
   },
   "entrypoints": [
     "static/css/main.d889d5ba.css",
-    "static/js/main.ae135c8d.js"
+    "static/js/main.b3577b01.js"
   ]
 }
