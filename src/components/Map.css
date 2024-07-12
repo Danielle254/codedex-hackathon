@@ -1,17 +1,16 @@
-.map {
-    animation: mapAnimation 1s ease-in-out infinite;
-    border: 1px solid #ccc;
-    border-radius: 8px;
-    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
-    animation-duration: 4s;
+.map {   
+    padding-top: 2rem;
+    
 }
 
-.mapOff {
+.map:hover {
+    animation: mapAnimation 0.5s ease-in-out;
+    animation-duration: 3s;
+}
+
+.mapOff {       
     
-    border: 1px solid #ccc;
-    border-radius: 8px;
-    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
-    animation-duration: 4s;
+    padding-top: 2rem;
 }
 
 .map iframe {
@@ -19,6 +18,19 @@
     border-color: orange;
     border-style: solid;
     border-width: 3px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+    height: 300px;
+    width: 600px;
+}
+
+.mapOff iframe {
+    border-radius: 10px;
+    border-color: orange;
+    border-style: solid;
+    border-width: 3px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+    height: 300px;
+    width: 600px;
 }
 
 @keyframes mapAnimation {

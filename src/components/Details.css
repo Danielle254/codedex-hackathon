@@ -1,15 +1,34 @@
 .details-container {
-
     padding: 20px;
     border-radius: 1rem;
     border: solid orange 1px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     margin-bottom: 20px;
+    transition: all 0.3s;    
+}
 
+.details-containerOff {
+    padding: 20px;
+    border-radius: 1rem;
+    border: solid orange 1px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
     
 }
 
+.details-container:hover {
+    transform: scale(1.2);
+    border: solid orange 3px;
+}
+
 .details-container p {
+    margin-bottom: 10px;
+    font-size: 16px;
+    color: darkmagenta;
+    font-weight: bold;
+}
+
+.details-containerOff p {
     margin-bottom: 10px;
     font-size: 16px;
     color: darkmagenta;

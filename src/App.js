@@ -21,15 +21,16 @@ function App() {
   return (
     <div className="App">      
       <div className='container'>        
-        <Accessibility 
-        
+        <Accessibility         
         animateOn={animateOn}
         toggleAnimate={toggleAnimate}
         />
         <Hero 
         animateOn={animateOn}
         />
-        <Details />      
+        <Details 
+        animateOn={animateOn}
+        />      
         <Share 
         animateOn={animateOn}
         />

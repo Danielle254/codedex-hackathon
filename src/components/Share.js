@@ -11,10 +11,10 @@ export default function Share(props) {
           </hr>
           
           <div class="icons">
-            <a href="https://www.facebook.com/share?url=https://example.com" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdanielle254.github.io%2Fcodedex-hackathon%2F&amp;src=sdkpreparse" target="_blank" rel="noopener noreferrer">
               <img src={facebook} alt="Facebook icon" className={props.animateOn === true ? "icon--image" : "icon--imageOff"}/>
             </a>
-            <a href="https://x.com/intent/tweet?url=https://example.com&text=Check%20out%20this%20awesome%20event!" target="_blank" rel="noopener noreferrer">
+            <a href="https://x.com/intent/tweet?url=https://danielle254.github.io/codedex-hackathon/" target="_blank" rel="noopener noreferrer">
               <img src={x} alt="Twitter icon" className={props.animateOn === true ? "icon--image" : "icon--imageOff"}/>
             </a>
             <a href="https://instagram.com" target="_blank" rel="noopener noreferrer">
