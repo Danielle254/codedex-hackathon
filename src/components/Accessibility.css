@@ -1,0 +1,23 @@
+.accessibility--section {
+    align-self: flex-start;
+}
+
+img {
+    height: 1.25rem;   
+    padding-right: 0.25rem;
+}
+
+p {
+    font-size: 1rem;
+    margin: 0;
+}
+
+.accessibility--option {
+    display: flex;
+    flex-direction: row;
+    align-items: end;
+}
+
+img:hover {
+    cursor: pointer;
+}
