@@ -2,7 +2,7 @@
 
 This is a one page website designed to invite users to a stoop sale (think garage sale but in NY!) in Brooklyn this month. Built with React and packed with CSS animations, this project was built collaboratively as part of a hackathon event by Danielle, Angel (repo owner), and Jayden. 
 
-Visit: [https://bytecodesky.github.io/stoop-sale-invitation](https://bytecodesky.github.io/stoop-sale-invitation)
+Visit: [https://danielle254.github.io/codedex-hackathon/](https://danielle254.github.io/codedex-hackathon/)
 
 
 
